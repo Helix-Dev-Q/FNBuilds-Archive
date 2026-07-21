@@ -244,7 +244,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 ## Chapter 3  Season  4
 | Build | Download | Alternative Download | Alternative Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|---------------|---------------|
-| 22.40-CL-23070899 | https://gofile.io/d/uwbcWq | https://ai-repertoire.com/download.html?token=1d051e390ae1498581d41c46541a6b6b | https://fn-builds.repressoh.it/22.40.rar | https://buzzheavier.com/vh8pa7ikas1z |  |
+| 22.40-CL-23070899 | https://fnbuilds.site/22.40-CL-23070899.rar | https://gofile.io/d/uwbcWq | https://fn-builds.repressoh.it/22.40.rar |
 | 22.30-CL-22803135 | Unavailable |
 | 22.20-CL-22600409 | https://fnbuilds.site/22.20-CL-22600409.rar |
 | 22.20-CL-22523251 | Lost |
