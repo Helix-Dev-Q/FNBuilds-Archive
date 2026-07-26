@@ -232,7 +232,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 |--------------|---------------|---------------|---------------|---------------|
 | 23.50-CL-24441668 | https://public.simplyblk.xyz/23.50.zip | https://titanac.xyz/23.50.rar | https://r2.kovryn.xyz/23.50.rar | https://fn-builds.repressoh.it/23.50.zip |
 | 23.50-CL-24376996 | Lost |
-| 23.40-CL-24087481 | https://public.simplyblk.xyz/23.40.zip | https://fn-builds.repressoh.it/23.40.zip | https://cold-na-phx-6.gofile.io/download/web/150f4045-1dd8-4421-81e2-ef3ee8c64fec/23.40-CL-24087481.zip |
+| 23.40-CL-24087481 | https://fnbuilds.site/23.40-CL-24087481.rar | https://fn-builds.repressoh.it/23.40.zip |
 | 23.30-CL-23986860 | https://fn-builds.repressoh.it/23.30.zip |
 | 23.30-CL-23901854 | Lost |
 | 23.20-CL-23783097 | https://fnbuilds.site/23.20-CL-23783097.zip |
