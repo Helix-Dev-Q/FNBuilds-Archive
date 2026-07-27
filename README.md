@@ -161,7 +161,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 | 29.40-CL-33629566 | [UEFN Is added with this one](https://fnbuilds.site/29.40-CL-33629566%20%2B%20UEFN.rar) | https://fn-builds.repressoh.it/29.40.rar | 
 | 29.40-CL-33502036 | https://fn-builds.repressoh.it/29.40-CL-33502036.rar |
 | 29.40-CL-33291686 | https://fn-builds.repressoh.it/29.40-CL-33291686.rar |
-| 29.30-CL-32982357 | https://cold-na-phx-2.gofile.io/download/web/39d52172-deb2-4d85-a1cf-6821276272a5/29.30-CL-32982357.7z |
+| 29.30-CL-32982357 | |
 | 29.20-CL-32716692 | https://fnbuilds.site/29.20-CL-32716692.7z |
 | 29.10-CL-32567225 | Unavailable |
 | 29.10-CL-32391220 | Unavailable |
@@ -175,7 +175,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 | 28.30-CL-31511038 | https://gofile.io/d/pIYSae | https://fn-builds.repressoh.it/28.30-CL-31511038.7z | https://cdn.astralfn.xyz/28.30-CL-31511038.7z | https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z |
 | 28.20-CL-31286935 | https://cold4.gofile.io/download/web/3b372482-5a4d-4102-a153-c4e29faa5626/c5s1.zip |
 | 28.20-CL-31165234 | https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip | https://buzzheavier.com/hobg7favbekg | https://gofile.io/d/e9BQ6I |
-| 28.10-CL-30835064 |  |
+| 28.10-CL-30835064 | |
 | 28.10-CL-30676362 | Unavailable |
 | 28.01-CL-30313795 | Unavailable |
 | 28.01-CL-30106568 | Unavailable |
@@ -395,7 +395,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 ## Chapter 2 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 13.40-CL-14113327 | https://public.simplyblk.xyz/13.40.zip | [Bugged, Wouldn't Reccomend using it](https://forcedfnbuilds.website/13.40.rar) | https://gofile.io/d/JYmlgo
+| 13.40-CL-14113327 | https://public.simplyblk.xyz/13.40.zip | https://gofile.io/d/JYmlgo
 | 13.40-CL-14036559 | Unavailable |
 | 13.40-CL-14008768 | Lost |
 | 13.30-CL-13884634 | https://public.simplyblk.xyz/13.30.rar |
