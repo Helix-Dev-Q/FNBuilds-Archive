@@ -5,11 +5,11 @@ Hello, Welcome to Helix's FN Builds Archive! (Fork of Llamaqwerty's Archive) If 
 - Credits to ploosh for many builds here
 - Credits go Pak for many og builds and some recent ones as well
 - Credits go to ElectricArchive for s37 builds (which i thought were lost) and other builds as well like s38, s39, s36, s35
-- Credits go to Jalen, for finding lost/unavailable download links
 - Credits go to Timmy (Owner of Carbon) for giving me one of the s30 build which was unavailable
 - Credits go to Aorux for some of his download links that have been added
 - Credits go to Reprossoh for a couple of his download links that are on here
-- Cedits go to Primus03 for 19.20 and 26.00
+- Cedits go to Primus03 for 19.20 and 26.00 
+- Credits go Fortforge (Pakked and Jalen) for some of the builds that i mirrored from them without giving any credits
 - Credits go to me for uploading some builds onto here as well 
 
 If you have any builds that you can provide make an issue or dm me on discord (only builds that aren't on here)
