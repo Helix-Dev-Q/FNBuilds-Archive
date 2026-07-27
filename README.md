@@ -335,12 +335,12 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 ## Chapter 2 Season  6
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 16.50-CL-16469788 | Unavailable |
+| 16.50-CL-16469788 | https://archive.org/download/fn-v16-archive/builds/16.50-CL-16469788.7z |
 | 16.50-CL-16432754 | https://fnbuilds.site/%2B%2BFortnite%2BRelease-16.50-CL-16432754.rar |https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view | https://archive.org/download/fn-v16-archive/builds/16.50-CL-16432754.7z
 | 16.40-CL-16218553 | https://public.simplyblk.xyz/16.40.rar | https://archive.org/download/fn-v16-archive/builds/16.40-CL-16218553.7z
 | 16.30-CL-16163563 | https://public.simplyblk.xyz/16.30.zip | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view | https://archive.org/download/fn-v16-archive/builds/16.30-CL-16163563.7z
 | 16.30-CL-16086208 | Lost |
-| 16.20-CL-16042441 | https://public.simplyblk.xyz/16.20.rar |
+| 16.20-CL-16042441 | https://public.simplyblk.xyz/16.20.rar | https://archive.org/download/fn-v16-archive/builds/16.20-CL-15987165.7z
 | 16.10-CL-15913292 | https://download.fn-archive.com/FortniteClient-16.10-CL-15913292.7z | https://archive.org/download/fn-v16-archive/builds/16.10-CL-15913292.7z
 | 16.10-CL-15898731 | Lost |
 | 16.10-CL-15862581 | Lost |
@@ -354,21 +354,21 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 15.50-CL-15570449 | Unavailable |
-| 15.50-CL-15526472 | https://fnbuilds.site/%2B%2BFortnite%2BRelease-15.50-CL-15526472.zip |https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view |
+| 15.50-CL-15526472 | https://fnbuilds.site/%2B%2BFortnite%2BRelease-15.50-CL-15526472.zip |https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view | https://archive.org/download/fn-v15-archive/builds/15.50-CL-15526472.7z
 | 15.40-CL-15496915 | Unavailable |
 | 15.40-CL-15424013 | Lost |
 | 15.40-CL-15419568 | Lost |
 | 15.40-CL-15385160 | Lost |
-| 15.30-CL-15341163 | https://public.simplyblk.xyz/15.30.rar | https://r2.ploosh.dev/15.30.zip | http://cdn.nebulafn.site/15.30.zip |
+| 15.30-CL-15341163 | https://public.simplyblk.xyz/15.30.rar | https://r2.ploosh.dev/15.30.zip | http://cdn.nebulafn.site/15.30.zip | https://archive.org/download/fn-v15-archive/builds/15.30-CL-15341163.7z
 | 15.30-CL-15316852 | Lost |
 | 15.30-CL-15233634 | Lost |
-| 15.21-CL-15083856 | https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z |
-| 15.20-CL-15070882 | https://public.simplyblk.xyz/15.20.rar |
+| 15.21-CL-15083856 | https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z | https://archive.org/download/fn-v15-archive/builds/15.21-CL-15083856.7z
+| 15.20-CL-15070882 | https://public.simplyblk.xyz/15.20.rar | https://archive.org/download/fn-v15-archive/builds/15.20-CL-15070882.7z
 | 15.20-CL-15033494 | Lost |
-| 15.10-CL-15014719 | Unavailable |
+| 15.10-CL-15014719 | https://archive.org/download/fn-v15-archive/builds/15.10-CL-15014719.7z |
 | 15.10-CL-14937640 | Lost |
 | 15.10-CL-14904303 | Lost |
-| 15.00-CL-14835335 | https://download.fn-archive.com/FortniteClient-15.00-CL-14835335.7z |
+| 15.00-CL-14835335 | https://download.fn-archive.com/FortniteClient-15.00-CL-14835335.7z | https://archive.org/download/fn-v15-archive/builds/15.00-CL-14835335.7z
 | 15.00-CL-14826719 | Lost |
 
 ## Chapter 2 Season  4
@@ -395,14 +395,14 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 ## Chapter 2 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 13.40-CL-14113327 | https://public.simplyblk.xyz/13.40.zip | https://gofile.io/d/JYmlgo
+| 13.40-CL-14113327 | https://public.simplyblk.xyz/13.40.zip | https://gofile.io/d/JYmlgo | https://archive.org/download/fn-v13-archive/builds/13.40-CL-14113327.7z
 | 13.40-CL-14036559 | Unavailable |
 | 13.40-CL-14008768 | Lost |
-| 13.30-CL-13884634 | https://public.simplyblk.xyz/13.30.rar |
-| 13.20-CL-13777676 | https://public.simplyblk.xyz/13.20.rar |
-| 13.00-CL-13715544 | https://archive.org/download/fortnite-cl-13715544/Fortnite-cl-13715544.7z | https://fn-builds.repressoh.it/13.00-CL-13715544.7z |
-| 13.00-CL-13696059 | Lost |
-| 13.00-CL-13649278 | https://public.simplyblk.xyz/13.00.rar |
+| 13.30-CL-13884634 | https://public.simplyblk.xyz/13.30.rar | https://archive.org/download/fn-v13-archive/builds/13.30-CL-13884634.7z
+| 13.20-CL-13777676 | https://public.simplyblk.xyz/13.20.rar | https://archive.org/download/fn-v13-archive/builds/13.20-CL-13777676.7z
+| 13.00-CL-13715544 | https://archive.org/download/fortnite-cl-13715544/Fortnite-cl-13715544.7z | https://fn-builds.repressoh.it/13.00-CL-13715544.7z | https://archive.org/download/fn-v13-archive/builds/13.00-CL-13715544.7z
+| 13.00-CL-13696059 | |
+| 13.00-CL-13649278 | https://public.simplyblk.xyz/13.00.rar | https://archive.org/download/fn-v13-archive/builds/13.00-CL-13649278.7z
 
 ## Chapter 2 Season  2
 | Build | Download | Alternative Download | Alternative Download
