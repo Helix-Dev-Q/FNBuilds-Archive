@@ -207,7 +207,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 | 25.11-CL-26171015 | https://r2.ploosh.dev/25.11.zip | https://fn-builds.repressoh.it/25.11.zip |  |
 | 25.10-CL-26000959 | Unavailable |
 | 25.00-CL-25909622 | Unavailable |
-| 25.00-CL-25784668 | Unavailable |
+| 25.00-CL-25784668 | https://fnbuilds.site/25.00-CL-25784668.7z |
 
 ## Chapter 4 Season  2
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
@@ -221,10 +221,10 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 | 24.20-CL-25058254 | https://archive.org/download/fn-v24-archive/builds/24.20-CL-25058254.7z |
 | 24.20-CL-25019967 | https://archive.org/download/fn-v24-archive/builds/24.20-CL-25019967.7z |
 | 24.20-CL-24939793 | https://r2.ploosh.dev/24.20.zip | https://r2.kovryn.xyz/24.20.zip | https://cdn.cbn.lol/24.20 | https://fn-builds.repressoh.it/24.20-CL-24939793.rar | https://archive.org/download/fn-v24-archive/builds/24.20-CL-24939793.7z
-| 24.10-CL-24903530 | Unavailable |
-| 24.10-CL-24770548 | Unavailable |
+| 24.10-CL-24903530 | https://fnbuilds.site/24.10-CL-24903530.7z |
+| 24.10-CL-24770548 | https://fnbuilds.site/24.10-CL-24770548.7z |
 | 24.01-CL-24757023 | Lost |
-| 24.01-CL-24672685 | Unavailable |
+| 24.01-CL-24672685 | https://fnbuilds.site/24.01-CL-24672685.7z |
 | 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 | https://fn-builds.repressoh.it/24.00-CL-24554913.zip | https://archive.org/download/fn-v24-archive/builds/24.00-CL-24554913.7z |
 
 ## Chapter 4 Season 1
