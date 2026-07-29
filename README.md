@@ -148,7 +148,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 | 30.40-CL-35235494 | Unavailable |
 | 30.30-CL-34891016 | Unavailable |
 | 30.20-CL-34597766 | https://fn-builds.repressoh.it/30.20-CL-34597766.rar | 
-| 30.20-CL-34488544 | [Has Patched EXE so your able to launch it](https://fnbuilds.site/30.20-CL-34488544.rar) |
+| 30.20-CL-34488544 | Coming Back Soon |
 | 30.10-CL-34399867 | Unavailable |
 | 30.10-CL-34261954 | Unavailable |
 | 30.10-CL-34184790 | https://fn-builds.repressoh.it/30.10-CL-34184790.rar |
@@ -158,11 +158,11 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 ## Chapter 5 Season 2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 29.40-CL-33629566 | [UEFN Is added with this one](https://fnbuilds.site/29.40-CL-33629566%20%2B%20UEFN.rar) | https://fn-builds.repressoh.it/29.40.rar | 
+| 29.40-CL-33629566 | Coming Back Soon | https://fn-builds.repressoh.it/29.40.rar | 
 | 29.40-CL-33502036 | https://fn-builds.repressoh.it/29.40-CL-33502036.rar |
 | 29.40-CL-33291686 | https://fn-builds.repressoh.it/29.40-CL-33291686.rar |
 | 29.30-CL-32982357 | |
-| 29.20-CL-32716692 | https://fnbuilds.site/29.20-CL-32716692.7z |
+| 29.20-CL-32716692 | Coming Back Soon |
 | 29.10-CL-32567225 | Unavailable |
 | 29.10-CL-32391220 | Unavailable |
 | 29.01-CL-32291970 | Unavailable |
@@ -172,7 +172,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 ## Chapter 5  Season  1
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|---------------|
-| 28.30-CL-31511038 | https://gofile.io/d/pIYSae | https://fn-builds.repressoh.it/28.30-CL-31511038.7z | https://cdn.astralfn.xyz/28.30-CL-31511038.7z | https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z |
+| 28.30-CL-31511038 | https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z |
 | 28.20-CL-31286935 | https://cold4.gofile.io/download/web/3b372482-5a4d-4102-a153-c4e29faa5626/c5s1.zip |
 | 28.20-CL-31165234 | https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip | https://buzzheavier.com/hobg7favbekg | https://gofile.io/d/e9BQ6I |
 | 28.10-CL-30835064 | |
@@ -201,12 +201,12 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 ## Chapter 4 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 25.30-CL-26867995 | https://fnbuilds.site/25.30-CL-26867995%2BUEFN.rar |
-| 25.20-CL-26629111 | https://ai-repertoire.com/download.html?token=8b7b7fe68d71489ca7222738f0e5f85e | https://fn-builds.repressoh.it/25.20.zip |  |
-| 25.20-CL-26474516 | Unavailable |
+| 25.30-CL-26867995 | Coming Back Soon |
+| 25.20-CL-26629111 | https://fnbuilds.site/25.20-CL-26629111.7z | https://fn-builds.repressoh.it/25.20.zip |  |
+| 25.20-CL-26474516 | https://fnbuilds.site/25.20-CL-26474516.7z |
 | 25.11-CL-26171015 | https://r2.ploosh.dev/25.11.zip | https://fn-builds.repressoh.it/25.11.zip |  |
-| 25.10-CL-26000959 | Unavailable |
-| 25.00-CL-25909622 | Unavailable |
+| 25.10-CL-26000959 | https://fnbuilds.site/25.10-CL-26000959.7z |
+| 25.00-CL-25909622 | https://fnbuilds.site/25.00-CL-25909622.7z |
 | 25.00-CL-25784668 | https://fnbuilds.site/25.00-CL-25784668.7z |
 
 ## Chapter 4 Season  2
