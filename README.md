@@ -193,15 +193,15 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 |--------------|---------------|---------------|---------------|
 | 26.30-CL-28688692 | http://r2.ploosh.dev/26.30-CL-28688692.zip | https://fn-builds.repressoh.it/26.30-CL-28688692.zip |
 | 26.30-CL-28509302 | https://fnbuilds.site/26.30-CL-28509302.7z | https://r2.ploosh.dev/26.30.zip | https://fn-builds.repressoh.it/26.30-CL-28509302.zip |
-| 26.20-CL-28096793 | Unavailable |
-| 26.10-CL-27681420 | Unavailable |
+| 26.20-CL-28096793 | https://fnbuilds.site/26.20-CL-28096793.7z |
+| 26.10-CL-27681420 | https://fnbuilds.site/26.10-CL-27681420.7z |
 | 26.00-CL-27424790 | https://fnbuilds.site/26.00-CL-27424790.7z |
-| 26.00-CL-27233190 | Unavailable |
+| 26.00-CL-27233190 | https://fnbuilds.site/26.00-CL-27233190.7z |
 
 ## Chapter 4 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 25.30-CL-26867995 | Coming Back Soon |
+| 25.30-CL-26867995 | https://fnbuilds.site/25.30-CL-26867995.7z |
 | 25.20-CL-26629111 | https://fnbuilds.site/25.20-CL-26629111.7z | https://fn-builds.repressoh.it/25.20.zip |  |
 | 25.20-CL-26474516 | https://fnbuilds.site/25.20-CL-26474516.7z |
 | 25.11-CL-26171015 | https://r2.ploosh.dev/25.11.zip | https://fn-builds.repressoh.it/25.11.zip |  |
@@ -359,7 +359,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 | 15.40-CL-15424013 | Lost |
 | 15.40-CL-15419568 | Lost |
 | 15.40-CL-15385160 | Lost |
-| 15.30-CL-15341163 | https://public.simplyblk.xyz/15.30.rar | https://r2.ploosh.dev/15.30.zip | http://cdn.nebulafn.site/15.30.zip | https://archive.org/download/fn-v15-archive/builds/15.30-CL-15341163.7z
+| 15.30-CL-15341163 | https://public.simplyblk.xyz/15.30.rar | http://cdn.nebulafn.site/15.30.zip | https://archive.org/download/fn-v15-archive/builds/15.30-CL-15341163.7z
 | 15.30-CL-15316852 | Lost |
 | 15.30-CL-15233634 | Lost |
 | 15.21-CL-15083856 | https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z | https://archive.org/download/fn-v15-archive/builds/15.21-CL-15083856.7z
@@ -452,33 +452,33 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 ## Chapter 1 Season  10
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 10.40.2 (10.40-CL-9380822) | https://public.simplyblk.xyz/10.40.rar | https://drive.google.com/file/d/1rnUcUJVeqjNhVDIODz5TBC4lY6BJcIwd/view | https://archive.org/download/Fortnite-10.40-CL-9380822.rar/10.40-CL-9380822.rar |
+| 10.40.2 (10.40-CL-9380822) | https://public.simplyblk.xyz/10.40.rar | https://drive.google.com/file/d/1rnUcUJVeqjNhVDIODz5TBC4lY6BJcIwd/view | https://archive.org/download/Fortnite-10.40-CL-9380822.rar/10.40-CL-9380822.rar | https://archive.org/download/fn-v10-archive/builds/10.40-CL-9380822.7z
 | 10.40.1 (10.40-CL-9302865) | Lost |
 | 10.40 (10.40-CL-8970213) | Lost |
-| 10.31 (10.31-CL-8723043) | https://public.simplyblk.xyz/10.31.zip | https://builds.rebootfn.org/10.31.zip |
-| 10.30 (10.30-CL-8569414) | Unavailable |
-| 10.20.2 (10.20-CL-8456527) | https://public.simplyblk.xyz/10.20.zip | https://builds.rebootfn.org/10.20.zip |
+| 10.31 (10.31-CL-8723043) | https://public.simplyblk.xyz/10.31.zip | https://builds.rebootfn.org/10.31.zip | https://archive.org/download/fn-v10-archive/builds/10.31-CL-8723043.7z
+| 10.30 (10.30-CL-8569414) | https://archive.org/download/fn-v10-archive/builds/10.30-CL-8569414.7z |
+| 10.20.2 (10.20-CL-8456527) | https://public.simplyblk.xyz/10.20.zip | https://builds.rebootfn.org/10.20.zip | https://archive.org/download/fn-v10-archive/builds/10.20-CL-8456527.7z
 | 10.20.1 (10.20-CL-8360257) | Lost |
 | 10.20 (10.20-CL-8243923) | Lost |
-| 10.10 (10.10-CL-7955722) | https://public.simplyblk.xyz/10.10.zip | https://builds.rebootfn.org/10.10.zip |
-| 10.00.1 (10.00-CL-7704164) | https://public.simplyblk.xyz/10.00.zip | https://builds.rebootfn.org/10.00.zip |
-| 10.00 (10.00-CL-7658179) | https://public.simplyblk.xyz/10.000.7z |
+| 10.10 (10.10-CL-7955722) | https://public.simplyblk.xyz/10.10.zip | https://builds.rebootfn.org/10.10.zip | https://archive.org/download/fn-v10-archive/builds/10.10-CL-7955722.7z
+| 10.00.1 (10.00-CL-7704164) | https://public.simplyblk.xyz/10.00.zip | https://builds.rebootfn.org/10.00.zip | https://archive.org/download/fn-v10-archive/builds/10.00-CL-7704164.7z
+| 10.00 (10.00-CL-7658179) | https://public.simplyblk.xyz/10.000.7z | https://archive.org/download/fn-v10-archive/builds/10.00-CL-7658179.7z
 
 ## Chapter 1 Season  9
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 9.41.1 (9.41-CL-7609292) | https://public.simplyblk.xyz/9.41.rar | https://builds.rebootfn.org/9.41.rar |
+| 9.41.1 (9.41-CL-7609292) | https://public.simplyblk.xyz/9.41.rar | https://builds.rebootfn.org/9.41.rar | https://archive.org/download/fn-v9-archive/builds/9.41-CL-7609292.7z
 | 9.41 (9.41-CL-7463579) | Lost |
-| 9.40 (9.40-CL-7315705) | https://public.simplyblk.xyz/9.40.zip | https://builds.rebootfn.org/9.40.zip |
-| 9.30.1 (9.30-CL-7095426) | https://public.simplyblk.xyz/9.30.zip | https://builds.rebootfn.org/9.30.zip |
+| 9.40 (9.40-CL-7315705) | https://public.simplyblk.xyz/9.40.zip | https://builds.rebootfn.org/9.40.zip | https://archive.org/download/fn-v9-archive/builds/9.40-CL-7315705.7z
+| 9.30.1 (9.30-CL-7095426) | https://public.simplyblk.xyz/9.30.zip | https://builds.rebootfn.org/9.30.zip | https://archive.org/download/fn-v9-archive/builds/9.30-CL-7095426.7z
 | 9.30 (9.30-CL-7021684) | Lost | 
-| 9.21 (9.21-CL-6922310) | https://public.simplyblk.xyz/9.21.zip | https://builds.rebootfn.org/9.21.zip |
-| 9.20 (9.20-CL-6822798) | https://public.simplyblk.xyz/9.20.rar |
-| 9.10.2 (9.10-CL-6639283) | https://public.simplyblk.xyz/9.10.rar | https://builds.rebootfn.org/9.10.rar | https://cdn.solarisfn.dev/Builds/9.10.zip |
+| 9.21 (9.21-CL-6922310) | https://public.simplyblk.xyz/9.21.zip | https://builds.rebootfn.org/9.21.zip | https://archive.org/download/fn-v9-archive/builds/9.21-CL-6922310.7z
+| 9.20 (9.20-CL-6822798) | https://public.simplyblk.xyz/9.20.rar | https://archive.org/download/fn-v9-archive/builds/9.20-CL-6822798.7z
+| 9.10.2 (9.10-CL-6639283) | https://public.simplyblk.xyz/9.10.rar | https://builds.rebootfn.org/9.10.rar | https://cdn.solarisfn.dev/Builds/9.10.zip | https://archive.org/download/fn-v9-archive/builds/9.10-CL-6639283.7z
 | 9.10.1 (9.10-CL-6616201) | Lost |
 | 9.10 (9.10-CL-6573057) | Lost |
-| 9.01 (9.01-CL-6428087) | https://public.simplyblk.xyz/9.01.zip | https://builds.rebootfn.org/9.01.zip |
-| 9.00 (9.00-CL-6337466) | https://public.simplyblk.xyz/9.00.zip | https://builds.rebootfn.org/9.00.zip |
+| 9.01 (9.01-CL-6428087) | https://public.simplyblk.xyz/9.01.zip | https://builds.rebootfn.org/9.01.zip | https://archive.org/download/fn-v9-archive/builds/9.01-CL-6428087.7z
+| 9.00 (9.00-CL-6337466) | https://public.simplyblk.xyz/9.00.zip | https://builds.rebootfn.org/9.00.zip | https://archive.org/download/fn-v9-archive/builds/9.00-CL-6337466.7z
 
 ## Chapter 1 Season  8
 | Build | Download | Alternative Download | Alternative Download
