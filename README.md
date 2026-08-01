@@ -178,7 +178,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 | 28.10-CL-30835064 | |
 | 28.10-CL-30676362 | Unavailable |
 | 28.01-CL-30313795 | Unavailable |
-| 28.01-CL-30106568 | Unavailable |
+| 28.01-CL-30106568 | https://fnbuilds.site/28.01-CL-30106568.7z |
 | 28.00-CL-29915848 | https://gofile.io/d/uDTffQ | https://fn-builds.repressoh.it/28.00-CL-29915848.7z |
 
 ## Chapter 4 Season  5 (Chapter 4 Season OG)
