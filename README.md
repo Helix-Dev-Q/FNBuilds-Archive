@@ -259,10 +259,10 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 21.51-CL-21735703 | https://fnbuilds.site/21.51.7z | https://fn-builds.repressoh.it/21.51.7z | https://public.simplyblk.xyz/21.51.7z
-| 21.50-CL-21657658 | https://public.simplyblk.xyz/21.50.zip | https://fn-builds.repressoh.it/21.50.zip |
-| 21.40-CL-21407327 | https://fn-builds.repressoh.it/21.40-CL-21407327.7z |
+| 21.50-CL-21657658 | https://public.simplyblk.xyz/21.50.zip | https://fn-builds.repressoh.it/21.50.zip | https://cdn.cbn.lol/21.50
+| 21.40-CL-21407327 | https://fn-builds.repressoh.it/21.40-CL-21407327.7z | https://cdn.cbn.lol/21.40
 | 21.40-CL-21348157 | Lost |
-| 21.30-CL-21155462 | https://fn-builds.repressoh.it/21.30-CL-21155462.7z |
+| 21.30-CL-21155462 | https://fn-builds.repressoh.it/21.30-CL-21155462.7z | https://cdn.cbn.lol/21.30
 | 21.30-CL-21102315 | Lost |
 | 21.20-CL-21035704 | Unavailable |
 | 21.20-CL-20978394 | https://cdn.cbn.lol/21.20 | https://fn-builds.repressoh.it/21.20-CL-20978394.7z |
@@ -283,16 +283,16 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 | 20.30-CL-19950687 | https://cdn.cbn.lol/20.30 | https://fn-builds.repressoh.it/20.30.zip |
 | 20.20-CL-19896998 | Unavailable |
 | 20.20-CL-19751212 | https://public.simplyblk.xyz/20.20.zip | https://cdn.cbn.lol/20.20 | https://fn-builds.repressoh.it/20.20.zip |
-| 20.10-CL-19598943 | https://public.simplyblk.xyz/20.10.zip | https://fn-builds.repressoh.it/20.10.zip |
+| 20.10-CL-19598943 | https://public.simplyblk.xyz/20.10.zip | https://fn-builds.repressoh.it/20.10.zip | https://cdn.cbn.lol/20.10
 | 20.00-CL-19532288 | Unavailable |
-| 20.00-CL-19458861 | https://public.simplyblk.xyz/20.00.rar | https://r2.kovryn.xyz/20.00-CL-19458861.7z | https://fn-builds.repressoh.it/20.00.rar |
+| 20.00-CL-19458861 | https://public.simplyblk.xyz/20.00.rar | https://r2.kovryn.xyz/20.00-CL-19458861.7z | https://fn-builds.repressoh.it/20.00.rar | https://cdn.cbn.lol/20.00
 
 ## Chapter 3 Season  1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 19.40-CL-19215531 | https://public.simplyblk.xyz/19.40.7z | https://fn-builds.repressoh.it/19.40.7z |  |
 | 19.40-CL-19167615 | Unavailable |
-| 19.30-CL-19027703 | https://public.simplyblk.xyz/19.30.rar | https://fn-builds.repressoh.it/19.30-CL-19027703.rar |
+| 19.30-CL-19027703 | https://public.simplyblk.xyz/19.30.rar | https://fn-builds.repressoh.it/19.30-CL-19027703.rar | https://cdn.cbn.lol/19.30
 | 19.30-CL-18948597 | Unavailable |
 | 19.20-CL-18775446 | https://fnbuilds.site/19.20-CL-18775446.rar |
 | 19.10-CL-18675304 | https://cdn.astrafn.site/Fortnite%2019.10.7z | https://fn-builds.repressoh.it/19.10.rar | 
@@ -306,7 +306,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 ## Chapter 2 Season  8
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.repressoh.it/18.40-CL-18163738-Windows.zip | https://cdn.astrafn.site/18.40.7z
+| 18.40-CL-18163738 | https://cdn.cbn.lol/18.40 |
 | 18.30-CL-17882303 | https://public.simplyblk.xyz/18.30.7z | https://fn-builds.repressoh.it/18.30.7z |
 | 18.21-CL-17811397 | https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z | https://fn-builds.repressoh.it/FortniteClient-18.21-CL-17811397.7z | https://fn-builds.repressoh.it/18.21-CL-17811397.7z |
 | 18.20-CL-17792290 | https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z | https://fn-builds.repressoh.it/18.20-CL-17792290.7z |
