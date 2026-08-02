@@ -175,9 +175,9 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 | 28.30-CL-31511038 | https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z |
 | 28.20-CL-31286935 | https://cold4.gofile.io/download/web/3b372482-5a4d-4102-a153-c4e29faa5626/c5s1.zip |
 | 28.20-CL-31165234 | https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip | https://buzzheavier.com/hobg7favbekg | https://gofile.io/d/e9BQ6I |
-| 28.10-CL-30835064 | |
-| 28.10-CL-30676362 | Unavailable |
-| 28.01-CL-30313795 | Unavailable |
+| 28.10-CL-30835064 | Unavailable |
+| 28.10-CL-30676362 | https://fnbuilds.site/28.10-CL-30676362.7z |
+| 28.01-CL-30313795 | https://fnbuilds.site/28.01-CL-30313795.7z |
 | 28.01-CL-30106568 | https://fnbuilds.site/28.01-CL-30106568.7z |
 | 28.00-CL-29915848 | https://gofile.io/d/uDTffQ | https://fn-builds.repressoh.it/28.00-CL-29915848.7z |
 
