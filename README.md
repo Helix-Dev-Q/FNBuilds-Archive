@@ -1,5 +1,10 @@
 Hello, Welcome to Helix's FN Builds Archive! (Fork of Llamaqwerty's Archive) If you have any problems make an issue and i'll try my best to help you. (if you can't download builds from here https://builds.rebootfn.org its not you its the link i think, but on order for to download builds with that link you just need to use this https://one.one.one.one/ to download it) Here's my websites https://builds.fnbuilds.site/ https://fn-archive.vercel.app/ 
 
+___
+
+<details>
+  <summary><h2>Credits</h2></summary>
+
 ## Credits: (dm me on discord:helix.67 if your download link is here but you don't have credits)
 - Credits go Ka Pum on discord for providing me some lost/unavailable builds
 - Credits to ploosh for many builds here
@@ -14,9 +19,22 @@ Hello, Welcome to Helix's FN Builds Archive! (Fork of Llamaqwerty's Archive) If 
 
 If you have any builds that you can provide make an issue or dm me on discord (only builds that aren't on here)
 
+</details>
+
+___
+
+# Builds Info
+
+- Hyperion/Byfron: An anti-tamper shield that encrypts game files to block reverse engineering. (v21.20 - v22.20) and a bypass will be needed in order to use it, which Project Carbon has or you can just create your own.
+- EAC Protection: Active on builds v30.10 and above. Requires a patched .exe or an alternative bypass method in order to launch it or you can use Project Carbon.
+
 ## Chapter 7 Season  3 
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
+| 41.30-CL-55979764 | [Available by Manifest](https://github.com/polynite/fn-releases) |
+| 41.20-CL-55550516 | [Available by Manifest](https://github.com/polynite/fn-releases) |
+| 41.10-CL-55227503 | [Available by Manifest](https://github.com/polynite/fn-releases) |
+| 41.00-CL-55159917 | [Available by Manifest](https://github.com/polynite/fn-releases) |
 | 41.00-CL-54872343 | [Available by Manifest](https://github.com/polynite/fn-releases) |
 | 41.00-CL-54867060 | [Available by Manifest](https://github.com/polynite/fn-releases) |
 | 41.00-CL-54618515 | [Available by Manifest](https://github.com/polynite/fn-releases) |
