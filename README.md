@@ -282,13 +282,13 @@ ___
 | 21.40-CL-21348157 | Lost |
 | 21.30-CL-21155462 | https://fn-builds.repressoh.it/21.30-CL-21155462.7z | https://cdn.cbn.lol/21.30
 | 21.30-CL-21102315 | Lost |
-| 21.20-CL-21035704 | Unavailable |
-| 21.20-CL-20978394 | https://cdn.cbn.lol/21.20 | https://fn-builds.repressoh.it/21.20-CL-20978394.7z |
+| 21.20-CL-21035704 | https://fnbuilds.site/FortniteClient-21.20-CL-21035704-Windows.7z |
+| 21.20-CL-20978394 | https://fnbuilds.site/FortniteClient-21.20-CL-20978394-Windows.7z | https://cdn.cbn.lol/21.20 | https://fn-builds.repressoh.it/21.20-CL-20978394.7z |
 | 21.20-CL-20890025 | Unavailable |
 | 21.10-CL-20829351 | Unavailable |
 | 21.10-CL-20777648 | Lost |
 | 21.10-CL-20756627 | Lost |
-| 21.10-CL-20696680 | https://public.simplyblk.xyz/21.10.zip |
+| 21.10-CL-20696680 | https://fnbuilds.site/FortniteClient-21.10-CL-20696680-Windows.7z |
 | 21.00-CL-20548557 | Unavailable |
 | 21.00-CL-20463113 | https://r2.ploosh.dev/21.00.zip | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view |
 
@@ -313,7 +313,7 @@ ___
 | 19.30-CL-19027703 | https://public.simplyblk.xyz/19.30.rar | https://fn-builds.repressoh.it/19.30-CL-19027703.rar | https://cdn.cbn.lol/19.30
 | 19.30-CL-18948597 | Unavailable |
 | 19.20-CL-18775446 | https://fnbuilds.site/19.20-CL-18775446.rar |
-| 19.10-CL-18675304 | https://cdn.astrafn.site/Fortnite%2019.10.7z | https://fn-builds.repressoh.it/19.10.rar | 
+| 19.10-CL-18675304 | https://fnbuilds.site/FortniteClient-19.10-CL-18675304-Windows.7z | https://fn-builds.repressoh.it/19.10.rar | 
 | 19.10-CL-18640491 | Lost |
 | 19.10-CL-18581131 | Lost | 
 | 19.01-CL-18489740 | https://r2.ploosh.dev/19.01.zip | https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip | https://fn-builds.repressoh.it/19.01-CL-18489740.zip | https://public.simplyblk.xyz/19.01.zip | 
