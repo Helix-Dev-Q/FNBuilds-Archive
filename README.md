@@ -330,7 +330,7 @@ ___
 | 18.20-CL-17792290 | https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z | https://fn-builds.repressoh.it/18.20-CL-17792290.7z |
 | 18.20-CL-17745267 | https://cdn.cbn.lol/18.20 | https://fn-builds.repressoh.it/18.20-CL-17745267.zip |
 | 18.10-CL-17661844 | https://cdn.cbn.lol/18.10 | https://fn-builds.repressoh.it/18.10-CL-17661844.7z |
-| 18.10-CL-17619277 | https://www.dropbox.com/scl/fi/lz5z5a1ue3pxfdokii2qv/18.10-CL-17619277.7z?rlkey=rhh3hnfsfgurlrs4lhundax7b&dl=1 | https://fn-builds.repressoh.it/18.10-CL-17619277.7z |
+| 18.10-CL-17619277 | Lost |
 | 18.00-CL-17519952 | Unavailable |
 | 18.00-CL-17468642 | https://public.simplyblk.xyz/18.00.rar | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view | https://fn-builds.repressoh.it/18.00.rar |
 
