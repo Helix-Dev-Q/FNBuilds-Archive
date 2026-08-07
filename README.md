@@ -360,6 +360,9 @@ ___
 | 16.30-CL-16163563 | https://public.simplyblk.xyz/16.30.zip | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view | https://archive.org/download/fn-v16-archive/builds/16.30-CL-16163563.7z
 | 16.30-CL-16086208 | Lost |
 | 16.20-CL-16042441 | https://public.simplyblk.xyz/16.20.rar | https://archive.org/download/fn-v16-archive/builds/16.20-CL-15987165.7z
+| 16.20-CL-15998392 | Lost |
+| 16.20-CL-15987165 | Lost |
+| 16.20-CL-15961073 | Lost |
 | 16.10-CL-15913292 | https://download.fn-archive.com/FortniteClient-16.10-CL-15913292.7z | https://archive.org/download/fn-v16-archive/builds/16.10-CL-15913292.7z
 | 16.10-CL-15898731 | Lost |
 | 16.10-CL-15862581 | Lost |
