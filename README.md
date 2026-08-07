@@ -341,6 +341,7 @@ ___
 | 17.50-CL-17328477 | Lost |
 | 17.40-CL-17269705 | https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z |
 | 17.40-CL-17215766 | Lost |
+| 17.40-CL-17162853 | Lost |
 | 17.30-CL-17004569 | https://public.simplyblk.xyz/17.30.zip | https://cdn.fortmp.dev/17.30.zip |
 | 17.21-CL-16967001 | https://fn-builds.repressoh.it/17.21-CL-16967001.7z |
 | 17.21-CL-16949556 | Lost |
