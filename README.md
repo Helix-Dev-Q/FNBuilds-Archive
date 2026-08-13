@@ -3,7 +3,7 @@
 
 ### Links
 * **Main Site:** [builds.fnbuilds.site](https://builds.fnbuilds.site/)
-* **Backup Site:** [fn-archive.vercel.app](https://fn-archive.vercel.app/)
+* **Other Site:** [fn-archive.vercel.app](https://fn-archive.vercel.app/)
 * **Discord Server:** [Join Discord](https://discord.gg/Sy4ywdyqvr)
 
 ---
