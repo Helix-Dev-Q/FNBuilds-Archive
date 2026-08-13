@@ -1,4 +1,18 @@
-Hello, Welcome to Helix's FN Builds Archive! (Fork of Llamaqwerty's Archive) If you have any problems make an issue and i'll try my best to help you. (if you can't download builds from here https://builds.rebootfn.org its not you its the link i think, but on order for to download builds with that link you just need to use this https://one.one.one.one/ to download it) Here's my websites https://builds.fnbuilds.site/ https://fn-archive.vercel.app/ 
+# Welcome to Helix's FN Builds Archive
+*(Fork of Llamaqwerty's Archive)*
+
+### Links
+* **Main Site:** [builds.fnbuilds.site](https://builds.fnbuilds.site/)
+* **Backup Site:** [fn-archive.vercel.app](https://fn-archive.vercel.app/)
+* **Discord Server:** [Join Discord](https://discord.gg/Sy4ywdyqvr)
+
+---
+
+### Support & Submissions
+* **Need Help?** If you run into issues, please [open a GitHub Issue](../../issues) or ask in our [Discord Server](https://discord.gg/Sy4ywdyqvr).
+* **Submit a Build:** Have a build to contribute? Submit it by [opening an issue](../../issues) or posting it in our Discord.
+
+> **Download Note:** If downloads from any previously working site suddenly fail, try using [1.1.1.1 WARP / Cloudflare DNS](https://one.one.one.one/) to fix connection issues.
 
 ___
 
