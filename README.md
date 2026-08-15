@@ -354,16 +354,16 @@ ___
 ## Chapter 2 Season  7
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 17.50-CL-17388565 | [1](https://public.simplyblk.xyz/17.50.zip) | [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) |
+| 17.50-CL-17388565 | [1](https://public.simplyblk.xyz/17.50.zip) | [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) | [3](https://archive.org/download/fn-v17-archive/builds/17.50-CL-17388565.7z)
 | 17.50-CL-17328477 | Lost |
-| 17.40-CL-17269705 | [1](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) |
+| 17.40-CL-17269705 | [1](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) | [2](https://archive.org/download/fn-v17-archive/builds/17.40-CL-17269705.7z)
 | 17.40-CL-17215766 | Lost |
 | 17.40-CL-17162853 | Lost |
-| 17.30-CL-17004569 | [1](https://public.simplyblk.xyz/17.30.zip) | [2](https://cdn.fortmp.dev/17.30.zip) |
+| 17.30-CL-17004569 | [1](https://public.simplyblk.xyz/17.30.zip) | [2](https://cdn.fortmp.dev/17.30.zip) | [3](https://archive.org/download/fn-v17-archive/builds/17.30-CL-17004569.7z)
 | 17.21-CL-16967001 | [1](https://fn-builds.repressoh.it/17.21-CL-16967001.7z) |
 | 17.21-CL-16949556 | Lost |
 | 17.20-CL-16868155 | [1](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) | [2](https://archive.org/download/fn-v17-archive/builds/17.20-CL-16868155.7z)
-| 17.10-CL-16745144 | [1](https://public.simplyblk.xyz/17.10.rar) |
+| 17.10-CL-16745144 | [1](https://public.simplyblk.xyz/17.10.rar) | [2](https://archive.org/download/fn-v17-archive/builds/17.10-CL-16745144.7z)
 | 17.10-CL-16701187 | Lost |
 | 17.00-CL-16593740 | [1](https://archive.org/download/fn-v17-archive/builds/17.00-CL-16593740.7z) |
 | 17.00-CL-16555138 | Lost |
