@@ -69,6 +69,7 @@ ___
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 39.51-CL-51287198 | [1](https://ia802807.us.archive.org/7/items/39.51-cl-51287198/39.51-CL-51287198.rar) | [2](https://transfer.it/t/MXp35FlDwZpZ) | [3](https://archive.org/download/fn-v39-archive/39.51-CL-51287198.zip)
+| 39.50-CL-51043566 | Downloadable by manifest
 | 39.50-CL-50854790 | [1](https://archive.org/download/fn-v39-archive/39.50-CL-50854790.zip) | [2](https://pastabillites.to/d/2qzcb3d27h5e?v=ZgVywtaCX3eYLzGYQZMxNhk3DBgaRG1nXY2CmV5l2wSs3qOYZ035tSK_gmJ1Xv9_Vl7TH9XkkPjZnn8qBuM8uh56BvsnlG13DuJ72JjW2Ha0F2AfisSe5ixivMcVwQ)
 | 39.40-CL-50577083 | [1](https://pastabillites.to/d/b07n6bokfyw4?v=wSJqG4-dVNkSUJb4Iw0PrU32VzeUo7yUxiEGp67nyWNc_9dVrNFn8hnNceUr8EglN9kxtgFkAXHynPNzPc2BMBfsju51cEz-7TT9zdpH1i7MG9I3ivq1GI7U3hkb6Q)
 | 39.40-CL-50341043 | [1](https://archive.org/download/fn-v39-archive/39.40-CL-50341043.zip) | [2](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.40-CL-50341043.zip)
@@ -102,7 +103,7 @@ ___
 | 37.10-CL-45566377 | [1](https://archive.org/download/fn-v37-archive/37.10-CL-45566377.zip) |
 | 37.10-CL-45056983 | [1](https://archive.org/download/fn-v37-archive/37.10-CL-45056983.zip) |
 | 37.00-CL-44765404 | [1](https://archive.org/download/fn-v37-archive/37.00-CL-44765404.zip) |
-| 37.00-CL-44501951 | Unavailable |
+| 37.00-CL-44501951 | Downloadable by manifest |
 | 37.00-CL-33501951 | [1](https://archive.org/download/fn-v37-archive/37.00-CL-33501951.zip) |
 
 ## Chapter 6 Season  3
@@ -131,58 +132,58 @@ ___
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 34.40-CL-41753727 | [1](https://archive.org/download/34.10-cl-40567068/34.40-CL-41753727.rar) | [2](https://fn-builds.repressoh.it/34.40-CL-41753727.rar) |
-| 34.30-CL-41588354 | Manifest Available |
+| 34.30-CL-41588354 | Downloadable by manifest |
 | 34.30-CL-41387772 | [1](https://archive.org/download/34.10-cl-40567068/34.30-CL-41387772.zip) | [2](https://archive.org/download/fn-v34-archive/34.30-CL-41387772.zip)
 | 34.21-CL-41092960 | [1](https://archive.org/download/34.10-cl-40567068/34.21-CL-41092960.zip) | [2](https://archive.org/download/fn-v34-archive/34.21-CL-41092960.zip)
 | 34.20-CL-40965447 | [1](https://archive.org/download/34.10-cl-40567068/34.20-CL-40965447.zip) | [2](https://archive.org/download/fn-v34-archive/34.20-CL-40965447.zip) 
 | 34.10-CL-40567068 | [1](https://archive.org/download/34.10-cl-40567068/34.10-CL-40567068.zip) | [2](https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view) | [3](https://archive.org/download/fn-v34-archive/34.10-CL-40567068.zip) 
 | 34.00-CL-40446427 | [1](https://fn-builds.repressoh.it/34.00-CL-40446427.rar) | [2](https://archive.org/download/fn-v34-archive/34.00-CL-40446427.zip)
-| 34.00-CL-40398515 | Unavailable |
-| 34.00-CL-40228973 | Unavailable |
-| 34.00-CL-40085084 | Unavailable |
+| 34.00-CL-40398515 | Downloadable by manifest |
+| 34.00-CL-40228973 | Downloadable by manifest |
+| 34.00-CL-40085084 | Downloadable by manifest |
 
 ## Chapter 6 Season  1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 33.30-CL-39768313 | Unavailable |
-| 33.30-CL-39435251 | Unavailable |
-| 33.20-CL-39277041 | Unavailable |
+| 33.30-CL-39768313 | Downloadable by manifest |
+| 33.30-CL-39435251 | Downloadable by manifest |
+| 33.20-CL-39277041 | Downloadable by manifest |
 | 33.20-CL-39082670 | [1](https://archive.org/download/fortniteBuild33.20/Fortnite.7z) |
 | 33.11-CL-38773622 | [1](https://dl.dropboxusercontent.com/scl/fi/v043h0oe05axhb0v65ync/33.11-CL-38773622.rar?rlkey=jgx2j2x5mvkjt9ltirvgecvvh) |
-| 33.10-CL-38630093 | Unavailable |
+| 33.10-CL-38630093 | Downloadable by manifest |
 | 33.00-CL-38504598 | [1](https://fnbuilds.site/33.00-CL-38504598.zip) |
-| 33.00-CL-38324112 | Unavailable |
+| 33.00-CL-38324112 | Downloadable by manifest |
 
 ## Chapter 5 Season  5 (Chapter 5 Season Remix)
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 32.11-CL-38371047 | [1](https://dl.dropboxusercontent.com/scl/fi/5djmb3ll3j1nghszjfsy0/32.11-CL-38371047.rar?rlkey=skt5ix1svq2xvj1kai8wf9jew) | [2](https://fn-builds.repressoh.it/32.11-CL-38371047.rar) |  |
 | 32.11-CL-38202817 | [1](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view) | [2](https://r2.ploosh.dev/32.11.zip) |
-| 32.10-CL-37958378 | Unavailable |
+| 32.10-CL-37958378 | Downloadable by manifest |
 | 32.00-CL-37770125 | [1](https://fnbuilds.site/32.00-CL-37770125.zip) |
-| 32.00-CL-37505882 | Unavailable |
+| 32.00-CL-37505882 | Downloadable by manifest |
 
 ## Chapter 5 Season  4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 31.41-CL-37324991 | [1](https://fn-builds.repressoh.it/31.41-CL-37324991.rar) | [2](https://gofile.io/d/5KnfUv) |
-| 31.40-CL-37076506 | Unavailable |
-| 31.40-CL-36874825 | Unavailable |
-| 31.30-CL-36600465 | Unavailable |
-| 31.20-CL-36348034 | Unavailable |
-| 31.20-CL-36253989 | Unavailable |
-| 31.10-CL-35815136 | Unavailable |
-| 31.00-CL-35447195 | Unavailable |
+| 31.40-CL-37076506 | Downloadable by manifest |
+| 31.40-CL-36874825 | Downloadable by manifest |
+| 31.30-CL-36600465 | Downloadable by manifest |
+| 31.20-CL-36348034 | Downloadable by manifest |
+| 31.20-CL-36253989 | Downloadable by manifest |
+| 31.10-CL-35815136 | Downloadable by manifest |
+| 31.00-CL-35447195 | Downloadable by manifest |
 
 ## Chapter 5 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 30.40-CL-35235494 | Unavailable |
-| 30.30-CL-34891016 | Unavailable |
+| 30.40-CL-35235494 | Downloadable by manifest |
+| 30.30-CL-34891016 | Downloadable by manifest |
 | 30.20-CL-34597766 | [1](https://fn-builds.repressoh.it/30.20-CL-34597766.rar) | 
 | 30.20-CL-34488544 | Coming Back Soon |
-| 30.10-CL-34399867 | Unavailable |
-| 30.10-CL-34261954 | Unavailable |
+| 30.10-CL-34399867 | Downloadable by manifest |
+| 30.10-CL-34261954 | Downloadable by manifest |
 | 30.10-CL-34184790 | [1](https://fn-builds.repressoh.it/30.10-CL-34184790.rar) |
 | 30.00-CL-33962396 | [1](https://gofile.io/d/ZjRYts) | [2](https://fn-builds.repressoh.it/30.00-CL-33962396.rar) |
 | 30.00-CL-33760522 | [1](https://gofile.io/d/ZjRYts) |
@@ -195,11 +196,11 @@ ___
 | 29.40-CL-33291686 | [1](https://fn-builds.repressoh.it/29.40-CL-33291686.rar) |
 | 29.30-CL-32982357 | |
 | 29.20-CL-32716692 | Coming Back Soon |
-| 29.10-CL-32567225 | Unavailable |
-| 29.10-CL-32391220 | Unavailable |
-| 29.01-CL-32291970 | Unavailable |
+| 29.10-CL-32567225 | Downloadable by manifest |
+| 29.10-CL-32391220 | Downloadable by manifest |
+| 29.01-CL-32291970 | Downloadable by manifest |
 | 29.00-CL-32116959 | [1](https://gofile.io/d/cw0eee) | [2](https://fn-builds.repressoh.it/29.00-CL-32116959.7z) | [3](https://fnbuilds.site/29.00-CL-32116959.7z)
-| 29.00-CL-31978752 | Unavailable |
+| 29.00-CL-31978752 | Downloadable by manifest |
 
 ## Chapter 5  Season  1
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
@@ -207,7 +208,7 @@ ___
 | 28.30-CL-31511038 | [1](https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z) |
 | 28.20-CL-31286935 | [1](https://cold4.gofile.io/download/web/3b372482-5a4d-4102-a153-c4e29faa5626/c5s1.zip) |
 | 28.20-CL-31165234 | [1](https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip) | [2](https://buzzheavier.com/hobg7favbekg) | [3](https://gofile.io/d/e9BQ6I) |
-| 28.10-CL-30835064 | Unavailable |
+| 28.10-CL-30835064 | Downloadable by manifest |
 | 28.10-CL-30676362 | [1](https://fnbuilds.site/28.10-CL-30676362.7z) |
 | 28.01-CL-30313795 | [1](https://fnbuilds.site/28.01-CL-30313795.7z) |
 | 28.01-CL-30106568 | [1](https://fnbuilds.site/28.01-CL-30106568.7z) |
@@ -318,6 +319,8 @@ ___
 | 20.10-CL-19598943 | [1](https://public.simplyblk.xyz/20.10.zip) | [2](https://fn-builds.repressoh.it/20.10.zip) | [3](https://cdn.cbn.lol/20.10)
 | 20.00-CL-19532288 | Unavailable |
 | 20.00-CL-19458861 | [1](https://public.simplyblk.xyz/20.00.rar) | [2](https://r2.kovryn.xyz/20.00-CL-19458861.7z) | [3](https://fn-builds.repressoh.it/20.00.rar) | [4](https://cdn.cbn.lol/20.00)
+| 20.00-CL-19381079 | Unavailable
+
 
 ## Chapter 3 Season  1
 | Build | Download | Alternative Download | Alternative Download
