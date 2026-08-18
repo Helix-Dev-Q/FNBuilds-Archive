@@ -292,7 +292,7 @@ ___
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 21.51-CL-21735703 | [1](https://fnbuilds.site/21.51.7z) | [2](https://fn-builds.repressoh.it/21.51.7z) | [3](https://public.simplyblk.xyz/21.51.7z)
-| 21.50-CL-21657658 | [1](https://public.simplyblk.xyz/21.50.zip) | [2](https://fn-builds.repressoh.it/21.50.zip) | [3](https://cdn.cbn.lol/21.50)
+| 21.50-CL-21657658 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/21.50-CL-21657658.7z) | [2](https://public.simplyblk.xyz/21.50.zip) | [3](https://fn-builds.repressoh.it/21.50.zip) | [4](https://cdn.cbn.lol/21.50)
 | 21.40-CL-21407327 | [1](https://fn-builds.repressoh.it/21.40-CL-21407327.7z) | [2](https://cdn.cbn.lol/21.40)
 | 21.40-CL-21348157 | Lost |
 | 21.30-CL-21155462 | [1](https://fn-builds.repressoh.it/21.30-CL-21155462.7z) | [2](https://cdn.cbn.lol/21.30)
@@ -325,7 +325,7 @@ ___
 ## Chapter 3 Season  1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 19.40-CL-19215531 | [1](https://dl.dropboxusercontent.com/scl/fi/yh62d1ay5v87deks1g53d/19.40.zip?rlkey=y6fo0ktol2ayf7wpdw1qooj3z) | [2](https://public.simplyblk.xyz/19.40.7z) | [3](https://fn-builds.repressoh.it/19.40.7z) |  |
+| 19.40-CL-19215531 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/19.40-CL-19215531.7z) | [2](https://dl.dropboxusercontent.com/scl/fi/yh62d1ay5v87deks1g53d/19.40.zip?rlkey=y6fo0ktol2ayf7wpdw1qooj3z) | [3](https://public.simplyblk.xyz/19.40.7z) | [4](https://fn-builds.repressoh.it/19.40.7z) |  |
 | 19.40-CL-19167615 | Unavailable |
 | 19.30-CL-19027703 | [1](https://public.simplyblk.xyz/19.30.rar) | [2](https://fn-builds.repressoh.it/19.30-CL-19027703.rar) | [3](https://cdn.cbn.lol/19.30)
 | 19.30-CL-18948597 | Unavailable |
@@ -334,15 +334,15 @@ ___
 | 19.10-CL-18640491 | Lost |
 | 19.10-CL-18581131 | Lost | 
 | 19.01-CL-18489740 | [1](https://r2.ploosh.dev/19.01.zip) | [2](https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip) | [3](https://fn-builds.repressoh.it/19.01-CL-18489740.zip) | [4](https://public.simplyblk.xyz/19.01.zip) | 
-| 19.01-CL-18415863 | [1](https://archive.org/compress/fortnite-19.01.7z) |
+| 19.01-CL-18415863 | Unavailable |
 | 19.00-CL-18380290 | Unavailable |
-| 19.00-CL-18335626 | [1](https://fn-builds.repressoh.it/19.00.zip) |
+| 19.00-CL-18335626 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/19.00-CL-18335626.7z) | [2](https://fn-builds.repressoh.it/19.00.zip) |
 
 ## Chapter 2 Season  8
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 18.40-CL-18163738 | [1](https://cdn.cbn.lol/18.40) |
-| 18.30-CL-17882303 | [1](https://public.simplyblk.xyz/18.30.7z) | [2](https://fn-builds.repressoh.it/18.30.7z) |
+| 18.30-CL-17882303 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch2/18.30-CL-17882303.7z) | [2](https://public.simplyblk.xyz/18.30.7z) | [3](https://fn-builds.repressoh.it/18.30.7z) |
 | 18.21-CL-17811397 | [1](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) | [2](https://fn-builds.repressoh.it/FortniteClient-18.21-CL-17811397.7z) | [3](https://fn-builds.repressoh.it/18.21-CL-17811397.7z) |
 | 18.20-CL-17792290 | [1](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) | [2](https://fn-builds.repressoh.it/18.20-CL-17792290.7z) |
 | 18.20-CL-17745267 | [1](https://cdn.cbn.lol/18.20) | [2](https://fn-builds.repressoh.it/18.20-CL-17745267.zip) |
@@ -365,7 +365,7 @@ ___
 | 17.20-CL-16868155 | [1](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) | [2](https://archive.org/download/fn-v17-archive/builds/17.20-CL-16868155.7z)
 | 17.10-CL-16745144 | [1](https://public.simplyblk.xyz/17.10.rar) | [2](https://archive.org/download/fn-v17-archive/builds/17.10-CL-16745144.7z)
 | 17.10-CL-16701187 | Lost |
-| 17.00-CL-16593740 | [1](https://archive.org/download/fn-v17-archive/builds/17.00-CL-16593740.7z) |
+| 17.00-CL-16593740 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch2/17.00-CL-16593740.7z) | [2](https://archive.org/download/fn-v17-archive/builds/17.00-CL-16593740.7z) |
 | 17.00-CL-16555138 | Lost |
 
 ## Chapter 2 Season  6
