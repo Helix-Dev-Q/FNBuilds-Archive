@@ -268,7 +268,7 @@ ___
 | 23.40-CL-24087481 | [1](https://fnbuilds.site/23.40-CL-24087481.rar) | [2](https://fn-builds.repressoh.it/23.40.zip) |
 | 23.30-CL-23986860 | [1](https://fn-builds.repressoh.it/23.30.zip) |
 | 23.30-CL-23901854 | Lost |
-| 23.20-CL-23783097 | [1](https://fnbuilds.site/23.20-CL-23783097.zip) |
+| 23.20-CL-23783097 | [1](https://fnbuilds.site/23.20-CL-23783097.zip) | [2](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch4/23.20-CL-23783097.7z)
 | 23.20-CL-23659353 | Unavailable |
 | 23.10-CL-23572221 | Unavailable |
 | 23.10-CL-23443094 | [1](https://public.simplyblk.xyz/23.10.rar) | [2](https://fn-builds.repressoh.it/23.10-CL-23443094.rar) | [3](https://cdn.cbn.lol/23.10) |
@@ -277,9 +277,9 @@ ___
 ## Chapter 3  Season  4
 | Build | Download | Alternative Download | Alternative Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|---------------|---------------|
-| 22.40-CL-23070899 | [1](https://fnbuilds.site/22.40-CL-23070899.rar) | [2](https://gofile.io/d/uwbcWq) | [3](https://fn-builds.repressoh.it/22.40.rar) |
+| 22.40-CL-23070899 | [1](https://fnbuilds.site/22.40-CL-23070899.rar) | [2](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/22.20-CL-22600409.7z) | [3](https://gofile.io/d/uwbcWq) | [4](https://fn-builds.repressoh.it/22.40.rar) |
 | 22.30-CL-22803135 | Unavailable |
-| 22.20-CL-22600409 | [1](https://fnbuilds.site/22.20-CL-22600409.rar) |
+| 22.20-CL-22600409 | [1](https://fnbuilds.site/22.20-CL-22600409.rar) | [2](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/22.20-CL-22600409.7z)
 | 22.20-CL-22523251 | Lost |
 | 22.10-CL-22429549 | [1](https://fn-builds.repressoh.it/22.10-CL-22429549.7z) | [2](https://cdn.cbn.lol/22.10) |
 | 22.10-CL-22240570 | Lost |
