@@ -238,9 +238,9 @@ ___
 | 25.20-CL-26629111 | [1](https://fnbuilds.site/25.20-CL-26629111.7z) | [2](https://fn-builds.repressoh.it/25.20.zip) |  |
 | 25.20-CL-26474516 | [1](https://fnbuilds.site/25.20-CL-26474516.7z) |
 | 25.11-CL-26171015 | [1](https://r2.ploosh.dev/25.11.zip) | [2](https://fn-builds.repressoh.it/25.11.zip) |  |
-| 25.10-CL-26000959 | [1](https://fnbuilds.site/25.10-CL-26000959.7z) |
-| 25.00-CL-25909622 | [1](https://fnbuilds.site/25.00-CL-25909622.7z) |
-| 25.00-CL-25784668 | [1](https://fnbuilds.site/25.00-CL-25784668.7z) |
+| 25.10-CL-26000959 | [1](https://archive.org/download/fn-v25-archive/builds/25.10-CL-26000959.7z) |
+| 25.00-CL-25909622 | [1](https://archive.org/download/fn-v25-archive/builds/25.00-CL-25909622.7z) |
+| 25.00-CL-25784668 | [1](https://archive.org/download/fn-v25-archive/builds/25.00-CL-25784668.7z) |
 
 ## Chapter 4 Season  2
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
@@ -295,7 +295,7 @@ ___
 | 21.50-CL-21657658 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/21.50-CL-21657658.7z) | [2](https://public.simplyblk.xyz/21.50.zip) | [3](https://fn-builds.repressoh.it/21.50.zip) | [4](https://cdn.cbn.lol/21.50)
 | 21.40-CL-21407327 | [1](https://fn-builds.repressoh.it/21.40-CL-21407327.7z) | [2](https://cdn.cbn.lol/21.40)
 | 21.40-CL-21348157 | Lost |
-| 21.30-CL-21155462 | [1](https://fn-builds.repressoh.it/21.30-CL-21155462.7z) | [2](https://cdn.cbn.lol/21.30)
+| 21.30-CL-21155462 | [1](https://archive.org/download/fn-v21-archive/21.30-CL-21155462.7z) | [2](https://cdn.cbn.lol/21.30)
 | 21.30-CL-21102315 | Lost |
 | 21.20-CL-21035704 | [1](https://fnbuilds.site/FortniteClient-21.20-CL-21035704-Windows.7z) |
 | 21.20-CL-20978394 | [1](https://fnbuilds.site/FortniteClient-21.20-CL-20978394-Windows.7z) | [2](https://cdn.cbn.lol/21.20) | [3](https://fn-builds.repressoh.it/21.20-CL-20978394.7z) |
